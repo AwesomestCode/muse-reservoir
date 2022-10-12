@@ -1,0 +1,31 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 5",
+    "description": "Revision set for cycle 5 verbs",
+    "list": [
+        {
+            "name": "Briser",
+            "definition": "to break/smash"
+        },
+        {
+            "name": "Brosser",
+            "definition": "to brush"
+        },
+        {
+            "name": "Brûler",
+            "definition": "to burn"
+        },
+        {
+            "name": "Cacher",
+            "definition": "to hide"
+        },
+        {
+            "name": "Casser",
+            "definition": "to break"
+        },
+        {
+            "name": "Causer",
+            "definition": "to chat"
+        }
+    ]
+}

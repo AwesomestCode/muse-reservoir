@@ -1,0 +1,31 @@
+{
+    "author": "root",
+    "title": "Test Title",
+    "description": "Insert description here",
+    "list": [
+        {
+            "name": "Muse",
+            "definition": "To think about something in a creative way, especially by imagining what it would be like or how it might happen."
+        },
+        {
+            "name": "Aquifer",
+            "definition": "A body of permeable rock that can contain or transmit groundwater."
+        },
+        {
+            "name": "English",
+            "definition": "The language of the United Kingdom, the United States, and the commonwealth countries."
+        },
+        {
+            "name": "French",
+            "definition": "The language of the Normans."
+        },
+        {
+            "name": "Google",
+            "definition": "A search engine that was founded by Page and Brin."
+        },
+        {
+            "name": "Apple",
+            "definition": "A type of fruit; also the name of a large tech company"
+        }
+    ]
+}
