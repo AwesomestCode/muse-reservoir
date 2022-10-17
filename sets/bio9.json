@@ -1,0 +1,43 @@
+{
+  "author": "Raymond Xu",
+  "title": "Bio Chapter 9 Quiz Review",
+  "description": "Quiz Review for Bio Chapter 9",
+  "list": [
+      {
+          "name": "Chloroplasts",
+          "definition": "The organelle that is the site of photosynthesis"
+      },
+      {
+          "name": "Grana",
+          "definition": "The stacks of thylakoids in a chloroplast"
+      },
+      {
+          "name": "Stroma",
+          "definition": "The fluid portion of the chloroplast outside the thylakoids"
+      },
+      {
+          "name": "Proton Pump",
+          "definition": "The enzyme that pumps protons into the thylakoid space"
+      },
+      {
+          "name": "Pigment",
+          "definition": "A molecule that absorbs light"
+      },
+      {
+          "name": "ATP",
+          "definition": "The energy currency of the cell. Made from ADP and a phosphate group."
+      },
+      {
+        	"name": "Acidic",
+        	"definition": "Has more protons in it. Thing on the pH scale."
+	  },
+	  {
+			"name": "Light dependent",
+			"definition": "These types of reactions happen inside the thylakoid"
+	  },
+	  {
+			"name": "6CO2 + 6H2O + Light = C6H12O6 + 6O2",
+			"definition": "The equation for photosynthesis. Use an equal sign to separate reactants and products."
+	  }
+  ]
+}
