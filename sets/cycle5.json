@@ -26,6 +26,42 @@
         {
             "name": "Causer",
             "definition": "to chat"
+        },
+        {
+            "name": "Cesser",
+            "definition": "to stop"
+        },
+        {
+            "name": "Chanter",
+            "definition": "to sing"
+        },
+        {
+            "name": "Chasser",
+            "definition": "to hunt/chase"
+        },
+        {
+            "name": "Chauffer",
+            "definition": "to warm/heat"
+        },
+        {
+            "name": "Chercher",
+            "definition": "to look for"
+        },
+        {
+            "name": "Commander",
+            "definition": "to command/order"
+        },
+        {
+            "name": "Compter",
+            "definition": "to count/intend"
+        },
+        {
+            "name": "Conseiller",
+            "definition": "to advise"
+        },
+        {
+            "name": "Couper",
+            "definition": "to cut"
         }
     ]
 }
