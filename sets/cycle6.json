@@ -1,0 +1,67 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 6",
+    "description": "Revision set for cycle 6 verbs",
+    "list" : [
+        {
+            "name": "Coûter",
+            "definition": "to cost"
+        },
+        {
+            "name": "Crier",
+            "definition": "to shout"
+        },
+        {
+            "name": "Danser",
+            "definition": "to dance"
+        },
+        {
+            "name": "Déchirer",
+            "definition": "to tear"
+        },
+        {
+            "name": "Déjeuner",
+            "definition": "to lunch"
+        },
+        {
+            "name": "Demander",
+            "definition": "to ask (for)"
+        },
+        {
+            "name": "Demeurer",
+            "definition": "to live"
+        },
+        {
+            "name": "Dépenser",
+            "definition": "to spend (money)"
+        },
+        {
+            "name": "Désirer",
+            "definition": "to wish/want"
+        },
+        {
+            "name": "Dessiner",
+            "definition": "to draw"
+        },
+        {
+            "name": "Dîner",
+            "definition": "to dine"
+        },
+        {
+            "name": "Diviser",
+            "definition": "to divide"
+        },
+        {
+            "name": "Donner",
+            "definition": "to give"
+        },
+        {
+            "name": "Douter",
+            "definition": "to doubt"
+        },
+        {
+            "name": "Durer",
+            "definition": "to last"
+        }
+    ]
+}
