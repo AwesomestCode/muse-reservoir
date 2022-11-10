@@ -1,0 +1,19 @@
+{
+    "author": "root",
+    "title": "Expressions Test",
+    "description": "Test set for expression parsing engine",
+    "list": [
+        {
+            "name": "(a) (parenthetical) (test)",
+			"definition": "a parenthetical test"
+        },
+        {
+            "name": "either/or",
+            "definition": "either or"
+        },
+        {
+            "name": "[(A)/(B)] [C/D]"
+            "definition": "[(A)/(B)] [C/D]"
+        }
+    ]
+}
