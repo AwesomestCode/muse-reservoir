@@ -1,0 +1,83 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 5",
+	"description": "Revision set for cycle 5 verbs",
+	"list": [
+		{
+			"name": "s'arrêter",
+			"definition": "to stop (oneself)"
+		},
+		{
+			"name": "se brosser",
+			"definition": "to brush"
+		},
+		{
+			"name": "se coucher",
+			"definition": "to go to bed"
+		},
+		{
+			"name": "se couper",
+			"definition": "to cut (oneself)"
+		},
+		{
+			"name": "se déshabiller",
+			"definition": "to undress"
+		},
+		{
+			"name": "se dépêcher",
+			"definition": "to hurry"
+		},
+		{
+			"name": "se détendre",
+			"definition": "to relax"
+		},
+		{
+			"name": "s'endormir",
+			"definition": "to fall asleep"
+		},
+		{
+			"name": "se fâcher",
+			"definition": "to get angry with"
+		},
+		{
+			"name": "s'habiller",
+			"definition": "to dress"
+		},
+		{
+			"name": "s'habituer à",
+			"definition": "to get used TO"
+		},
+		{
+			"name": "s'inquiéter",
+			"definition": "to worry"
+		},
+		{
+			"name": "s'intéresser à",
+			"definition": "to be interested in"
+		},
+		{
+			"name": "se laver",
+			"definition": "to wash (oneself)"
+		},
+		{
+			"name": "se lever",
+			"definition": "to get up"
+		},
+		{
+			"name": "se maquiller",
+			"definition": "to put on make-up"
+		},
+		{
+			"name": "se peigner",
+			"definition": "to comb"
+		},
+		{
+			"name": "se raser",
+			"definition": "to shave"
+		},
+		{
+			"name": "se reposer",
+			"definition": "to rest"
+		}
+	]
+}
