@@ -1,0 +1,43 @@
+{
+    "author": "root",
+    "title": "Greek Alphabet Set A",
+    "description": "This is the Greek Alphabet",
+    "list": [
+        {
+            "definition": "After Omega",
+            "name": "alpha"
+        },
+        {
+            "definition": "After Alpha",
+            "name": "beta"
+        },
+        {
+            "definition": "After Beta",
+            "name": "gamma"
+        },
+        {
+            "definition": "After Gamma",
+            "name": "delta"
+        },
+        {
+            "definition": "After Delta",
+            "name": "epsilon"
+        },
+        {
+            "definition": "After Epsilon",
+            "name": "zeta"
+        },
+        {
+            "definition": "After Zeta",
+            "name": "eta"
+        },
+        {
+            "definition": "After Eta",
+            "name": "theta"
+        },
+        {
+            "definition": "After Theta",
+            "name": "iota"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "author": "root",
+    "title": "Greek Alphabet Set C",
+    "description": "This is the Greek Alphabet",
+    "list": [
+        {
+            "definition": "After Sigma",
+            "name": "tau"
+        },
+        {
+            "definition": "After Tau",
+            "name": "upsilon"
+        },
+        {
+            "definition": "After Upsilon",
+            "name": "phi"
+        },
+        {
+            "definition": "After Phi",
+            "name": "chi"
+        },
+        {
+            "definition": "After Chi",
+            "name": "psi"
+        },
+        {
+            "definition": "After Psi",
+            "name": "omega"
+        }
+    ]
+}

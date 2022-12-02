@@ -1,0 +1,47 @@
+{
+    "author": "root",
+    "title": "Greek Alphabet Set B",
+    "description": "This is the Greek Alphabet",
+    "list": [
+        {
+            "definition": "After Theta",
+            "name": "iota"
+        },
+        {
+            "definition": "After Iota",
+            "name": "kappa"
+        },
+        {
+            "definition": "After Kappa",
+            "name": "lambda"
+        },
+        {
+            "definition": "After Lambda",
+            "name": "mu"
+        },
+        {
+            "definition": "After Mu",
+            "name": "nu"
+        },
+        {
+            "definition": "After Nu",
+            "name": "xi"
+        },
+        {
+            "definition": "After Xi",
+            "name": "omicron"
+        },
+        {
+            "definition": "After Omicron",
+            "name": "pi"
+        },
+        {
+            "definition": "After Pi",
+            "name": "rho"
+        },
+        {
+            "definition": "After Rho",
+            "name": "sigma"
+        }
+    ]
+}
