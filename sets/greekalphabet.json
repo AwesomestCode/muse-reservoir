@@ -1,0 +1,103 @@
+{
+    "author": "root",
+    "title": "Greek Alphabet",
+    "description": "This is the Greek Alphabet",
+    "list": [
+        {
+            "name": "After Omega",
+            "definition": "alpha"
+        },
+        {
+            "name": "After Alpha",
+            "definition": "beta"
+        },
+        {
+            "name": "After Beta",
+            "definition": "gamma"
+        },
+        {
+            "name": "After Gamma",
+            "definition": "delta"
+        },
+        {
+            "name": "After Delta",
+            "definition": "epsilon"
+        },
+        {
+            "name": "After Epsilon",
+            "definition": "zeta"
+        },
+        {
+            "name": "After Zeta",
+            "definition": "eta"
+        },
+        {
+            "name": "After Eta",
+            "definition": "theta"
+        },
+        {
+            "name": "After Theta",
+            "definition": "iota"
+        },
+        {
+            "name": "After Iota",
+            "definition": "kappa"
+        },
+        {
+            "name": "After Kappa",
+            "definition": "lambda"
+        },
+        {
+            "name": "After Lambda",
+            "definition": "mu"
+        },
+        {
+            "name": "After Mu",
+            "definition": "nu"
+        },
+        {
+            "name": "After Nu",
+            "definition": "xi"
+        },
+        {
+            "name": "After Xi",
+            "definition": "omicron"
+        },
+        {
+            "name": "After Omicron",
+            "definition": "pi"
+        },
+        {
+            "name": "After Pi",
+            "definition": "rho"
+        },
+        {
+            "name": "After Rho",
+            "definition": "sigma"
+        },
+        {
+            "name": "After Sigma",
+            "definition": "tau"
+        },
+        {
+            "name": "After Tau",
+            "definition": "upsilon"
+        },
+        {
+            "name": "After Upsilon",
+            "definition": "phi"
+        },
+        {
+            "name": "After Phi",
+            "definition": "chi"
+        },
+        {
+            "name": "After Chi",
+            "definition": "psi"
+        },
+        {
+            "name": "After Psi",
+            "definition": "omega"
+        }
+    ]
+}
