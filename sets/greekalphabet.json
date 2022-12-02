@@ -4,100 +4,100 @@
     "description": "This is the Greek Alphabet",
     "list": [
         {
-            "name": "After Omega",
-            "definition": "alpha"
+            "definition": "After Omega",
+            "name": "alpha"
         },
         {
-            "name": "After Alpha",
-            "definition": "beta"
+            "definition": "After Alpha",
+            "name": "beta"
         },
         {
-            "name": "After Beta",
-            "definition": "gamma"
+            "definition": "After Beta",
+            "name": "gamma"
         },
         {
-            "name": "After Gamma",
-            "definition": "delta"
+            "definition": "After Gamma",
+            "name": "delta"
         },
         {
-            "name": "After Delta",
-            "definition": "epsilon"
+            "definition": "After Delta",
+            "name": "epsilon"
         },
         {
-            "name": "After Epsilon",
-            "definition": "zeta"
+            "definition": "After Epsilon",
+            "name": "zeta"
         },
         {
-            "name": "After Zeta",
-            "definition": "eta"
+            "definition": "After Zeta",
+            "name": "eta"
         },
         {
-            "name": "After Eta",
-            "definition": "theta"
+            "definition": "After Eta",
+            "name": "theta"
         },
         {
-            "name": "After Theta",
-            "definition": "iota"
+            "definition": "After Theta",
+            "name": "iota"
         },
         {
-            "name": "After Iota",
-            "definition": "kappa"
+            "definition": "After Iota",
+            "name": "kappa"
         },
         {
-            "name": "After Kappa",
-            "definition": "lambda"
+            "definition": "After Kappa",
+            "name": "lambda"
         },
         {
-            "name": "After Lambda",
-            "definition": "mu"
+            "definition": "After Lambda",
+            "name": "mu"
         },
         {
-            "name": "After Mu",
-            "definition": "nu"
+            "definition": "After Mu",
+            "name": "nu"
         },
         {
-            "name": "After Nu",
-            "definition": "xi"
+            "definition": "After Nu",
+            "name": "xi"
         },
         {
-            "name": "After Xi",
-            "definition": "omicron"
+            "definition": "After Xi",
+            "name": "omicron"
         },
         {
-            "name": "After Omicron",
-            "definition": "pi"
+            "definition": "After Omicron",
+            "name": "pi"
         },
         {
-            "name": "After Pi",
-            "definition": "rho"
+            "definition": "After Pi",
+            "name": "rho"
         },
         {
-            "name": "After Rho",
-            "definition": "sigma"
+            "definition": "After Rho",
+            "name": "sigma"
         },
         {
-            "name": "After Sigma",
-            "definition": "tau"
+            "definition": "After Sigma",
+            "name": "tau"
         },
         {
-            "name": "After Tau",
-            "definition": "upsilon"
+            "definition": "After Tau",
+            "name": "upsilon"
         },
         {
-            "name": "After Upsilon",
-            "definition": "phi"
+            "definition": "After Upsilon",
+            "name": "phi"
         },
         {
-            "name": "After Phi",
-            "definition": "chi"
+            "definition": "After Phi",
+            "name": "chi"
         },
         {
-            "name": "After Chi",
-            "definition": "psi"
+            "definition": "After Chi",
+            "name": "psi"
         },
         {
-            "name": "After Psi",
-            "definition": "omega"
+            "definition": "After Psi",
+            "name": "omega"
         }
     ]
 }
