@@ -1,0 +1,67 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 8",
+    "description": "Revision set for cycle 8 verbs",
+    "list": [
+        {
+            "name": "Échouer",
+            "definition": "to fail"
+        },
+        {
+            "name": "Éclater",
+            "definition": "to burst"
+        },
+        {
+            "name": "Écouter",
+            "definition": "to listen (to)"
+        },
+        {
+            "name": "Embrasser",
+            "definition": "to kiss"
+        },
+        {
+            "name": "Empêcher",
+            "definition": "to prevent"
+        },
+        {
+            "name": "Emprunter",
+            "definition": "to borrow"
+        },
+        {
+            "name": "Enchanter",
+            "definition": "to delight"
+        },
+        {
+            "name": "Enseigner",
+            "definition": "to teach"
+        },
+        {
+            "name": "Entourer",
+            "definition": "to surround"
+        },
+        {
+            "name": "Entrer",
+            "definition": "to enter"
+        },
+        {
+            "name": "Envelopper",
+            "definition": "to wrap"
+        },
+        {
+            "name": "Épouser",
+            "definition": "to marry"
+        },
+        {
+            "name": "Éternuer",
+            "definition": "to sneeze"
+        },
+        {
+            "name": "Étonner",
+            "definition": "to astonish"
+        },
+        {
+            "name": "Étudier",
+            "definition": "to study"
+        }
+    ]
+}
