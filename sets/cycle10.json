@@ -1,0 +1,67 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 10",
+    "description": "Revision set for cycle 10 verbs",
+    "list": [
+        {
+            "name": "Éveiller",
+            "definition": "to wake (up)"
+        },
+        {
+            "name": "Éviter",
+            "definition": "to avoid"
+        },
+        {
+            "name": "Expliquer",
+            "definition": "to explain"
+        },
+        {
+            "name": "Exprimer",
+            "definition": "to express"
+        },
+        {
+            "name": "Fabriquer",
+            "definition": "to manufacture"
+        },
+        {
+            "name": "Fatiguer",
+            "definition": "to tire"
+        },
+        {
+            "name": "Féliciter",
+            "definition": "to congratulate"
+        },
+        {
+            "name": "Fermer",
+            "definition": "to close"
+        },
+        {
+            "name": "Frapper",
+            "definition": "to strike/knock"
+        },
+        {
+            "name": "Frotter",
+            "definition": "to rub"
+        },
+        {
+            "name": "Fumer",
+            "definition": "to smoke"
+        },
+        {
+            "name": "Gagner",
+            "definition": "to earn/win"
+        },
+        {
+            "name": "Garder",
+            "definition": "to keep"
+        },
+        {
+            "name": "Gaspiller",
+            "definition": "to waster"
+        },
+        {
+            "name": "Gâter",
+            "definition": "to spoil"
+        }
+    ]
+}
