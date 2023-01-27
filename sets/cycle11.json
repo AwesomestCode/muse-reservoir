@@ -5,63 +5,63 @@
     "list": [
         {
             "name": "Glisser",
-            "description": "to slip/slide",
+            "description": "to slip/slide"
         },
         {
             "name": "Goûter",
-            "description": "to taste",
+            "description": "to taste"
         },
         {
             "name": "Gronder",
-            "description": "to scold",
+            "description": "to scold"
         },
         {
             "name": "Habiter",
-            "description": "to live in",
+            "description": "to live in"
         },
         {
             "name": "Hésiter",
-            "description": "to hesitate",
+            "description": "to hesitate"
         },
         {
             "name": "Ignorer",
-            "description": "to not know/be ignorant of",
+            "description": "to not know/be ignorant of"
         },
         {
             "name": "Intéresser",
-            "description": "to interest",
+            "description": "to interest"
         },
         {
             "name": "Jouer",
-            "description": "to play",
+            "description": "to play"
         },
         {
             "name": "Juror",
-            "description": "to swear",
+            "description": "to swear"
         },
         {
             "name": "Laisser",
-            "description": "to leave/let",
+            "description": "to leave/let"
         },
         {
             "name": "Laver",
-            "description": "to wash",
+            "description": "to wash"
         },
         {
             "name": "Louer",
-            "description": "to praise/rent/hire",
+            "description": "to praise/rent/hire"
         },
         {
             "name": "Manquer",
-            "description": "to miss/lack",
+            "description": "to miss/lack"
         },
         {
             "name": "Marcher",
-            "description": "to walk/go",
+            "description": "to walk/go"
         },
         {
             "name": "Mêler",
-            "description": "to mix",
+            "description": "to mix"
         }
     ]
 }
