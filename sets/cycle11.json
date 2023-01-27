@@ -5,63 +5,63 @@
     "list": [
         {
             "name": "Glisser",
-            "description": "to slip/slide"
+            "definition": "to slip/slide"
         },
         {
             "name": "Goûter",
-            "description": "to taste"
+            "definition": "to taste"
         },
         {
             "name": "Gronder",
-            "description": "to scold"
+            "definition": "to scold"
         },
         {
             "name": "Habiter",
-            "description": "to live in"
+            "definition": "to live in"
         },
         {
             "name": "Hésiter",
-            "description": "to hesitate"
+            "definition": "to hesitate"
         },
         {
             "name": "Ignorer",
-            "description": "to not know/be ignorant of"
+            "definition": "to not know/be ignorant of"
         },
         {
             "name": "Intéresser",
-            "description": "to interest"
+            "definition": "to interest"
         },
         {
             "name": "Jouer",
-            "description": "to play"
+            "definition": "to play"
         },
         {
             "name": "Juror",
-            "description": "to swear"
+            "definition": "to swear"
         },
         {
             "name": "Laisser",
-            "description": "to leave/let"
+            "definition": "to leave/let"
         },
         {
             "name": "Laver",
-            "description": "to wash"
+            "definition": "to wash"
         },
         {
             "name": "Louer",
-            "description": "to praise/rent/hire"
+            "definition": "to praise/rent/hire"
         },
         {
             "name": "Manquer",
-            "description": "to miss/lack"
+            "definition": "to miss/lack"
         },
         {
             "name": "Marcher",
-            "description": "to walk/go"
+            "definition": "to walk/go"
         },
         {
             "name": "Mêler",
-            "description": "to mix"
+            "definition": "to mix"
         }
     ]
 }
