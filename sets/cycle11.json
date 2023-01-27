@@ -1,0 +1,67 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 11",
+    "description": "Revision set for cycle 11 verbs",
+    "list": [
+        {
+            "name": "Glisser",
+            "description": "to slip/slide",
+        },
+        {
+            "name": "Goûter",
+            "description": "to taste",
+        },
+        {
+            "name": "Gronder",
+            "description": "to scold",
+        },
+        {
+            "name": "Habiter",
+            "description": "to live in",
+        },
+        {
+            "name": "Hésiter",
+            "description": "to hesitate",
+        },
+        {
+            "name": "Ignorer",
+            "description": "to not know/be ignorant of",
+        },
+        {
+            "name": "Intéresser",
+            "description": "to interest",
+        },
+        {
+            "name": "Jouer",
+            "description": "to play",
+        },
+        {
+            "name": "Juror",
+            "description": "to swear",
+        },
+        {
+            "name": "Laisser",
+            "description": "to leave/let",
+        },
+        {
+            "name": "Laver",
+            "description": "to wash",
+        },
+        {
+            "name": "Louer",
+            "description": "to praise/rent/hire",
+        },
+        {
+            "name": "Manquer",
+            "description": "to miss/lack",
+        },
+        {
+            "name": "Marcher",
+            "description": "to walk/go",
+        },
+        {
+            "name": "Mêler",
+            "description": "to mix",
+        }
+    ]
+}
