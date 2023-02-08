@@ -1,0 +1,67 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 12",
+    "description": "Revision set for cycle 12 verbs",
+    "list": [
+        {
+            "name": "Mériter",
+            "definition": "to deserve"
+        },
+        {
+            "name": "Monter",
+            "definition": "to go (come) up"
+        },
+        {
+            "name": "Montrer",
+            "definition": "to show"
+        },
+        {
+            "name": "Nommer",
+            "definition": "to name"
+        },
+        {
+            "name": "Ordonner",
+            "definition": "to order"
+        },
+        {
+            "name": "Oser",
+            "definition": "to dare"
+        },
+        {
+            "name": "Ôter",
+            "definition": "to remove/take off"
+        },
+        {
+            "name": "Oublier",
+            "definition": "to forget"
+        },
+        {
+            "name": "Pardonner",
+            "definition": "to forgive"
+        },
+        {
+            "name": "Parler",
+            "definition": "to speak/talk"
+        },
+        {
+            "name": "Passer",
+            "definition": "to pass/spend (time)"
+        },
+        {
+            "name": "Patiner",
+            "definition": "to skate"
+        },
+        {
+            "name": "Peigner",
+            "definition": "to comb"
+        },
+        {
+            "name": "Penser",
+            "definition": "to think"
+        },
+        {
+            "name": "Pleurer",
+            "definition": "to cry"
+        }
+    ]
+}
