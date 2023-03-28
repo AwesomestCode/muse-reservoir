@@ -1,0 +1,67 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 15",
+    "description": "Revision set for cycle 15 verbs",
+    "list" : [
+        {
+            "name": "Porter",
+            "definition": "to carry/wear"
+        },
+        {
+            "name": "Poser",
+            "definition": "to put/place/ask/pose"
+        },
+        {
+            "name": "Pousser",
+            "definition": "to push/grow/utter"
+        },
+        {
+            "name": "Présenter",
+            "definition": "to introduce"
+        },
+        {
+            "name": "Prêter",
+            "definition": "to lend"
+        },
+        {
+            "name": "Prier",
+            "definition": "to pray/beg"
+        },
+        {
+            "name": "Prouver",
+            "definition": "to prove"
+        },
+        {
+            "name": "Quitter",
+            "definition": "to leave"
+        },
+        {
+            "name": "Raconter",
+            "definition": "to relate/tell"
+        },
+        {
+            "name": "Ramasser",
+            "definition": "to pick up/collect"
+        },
+        {
+            "name": "Regarder",
+            "definition": "to watch/look (at)"
+        },
+        {
+            "name": "Regretter",
+            "definition": "to be sorry"
+        },
+        {
+            "name": "Remarquer",
+            "definition": "to notice"
+        },
+        {
+            "name": "Remercier",
+            "definition": "to thank"
+        },
+        {
+            "name": "Rencontrer",
+            "definition": "to meet/run into"
+        }
+    ]
+}
