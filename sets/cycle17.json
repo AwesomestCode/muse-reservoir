@@ -1,0 +1,67 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 17",
+    "description": "Revision set for cycle 17 verbs",
+    "list": [
+        {
+            "name": "Rentrer",
+            "definition": "to go in again/return"
+        },
+        {
+            "name": "Repasser",
+            "definition": "to review/iron"
+        },
+        {
+            "name": "Rester",
+            "definition": "to remain/stay"
+        },
+        {
+            "name": "Retourner",
+            "definition": "to go back/return"
+        },
+        {
+            "name": "Retrouver",
+            "definition": "to find (again)"
+        },
+        {
+            "name": "Réveiller",
+            "definition": "to wake (up)"
+        },
+        {
+            "name": "Rêver",
+            "definition": "to dream"
+        },
+        {
+            "name": "Saluer",
+            "definition": "to greet"
+        },
+        {
+            "name": "Sauter",
+            "definition": "to jump"
+        },
+        {
+            "name": "Sauver",
+            "definition": "to save"
+        },
+        {
+            "name": "Sembler",
+            "definition": "to seem"
+        },
+        {
+            "name": "Siffler",
+            "definition": "to whistle"
+        },
+        {
+            "name": "Signifier",
+            "definition": "to mean"
+        },
+        {
+            "name": "Soigner",
+            "definition": "to take care of"
+        },
+        {
+            "name": "Sonner",
+            "definition": "to ring"
+        }
+    ]
+}
