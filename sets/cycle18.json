@@ -1,0 +1,67 @@
+{
+    "author": "root",
+    "title": "Verbes du Cycle 17",
+    "description": "Revision set for cycle 17 verbs",
+    "list": [
+        {
+            "name": "Souhaiter",
+            "definition": "to wish"
+        },
+        {
+            "name": "Souligner",
+            "definition": "to underline"
+        },
+        {
+            "name": "Stationner",
+            "definition": "to park"
+        },
+        {
+            "name": "Tâcher",
+            "definition": "to try"
+        },
+        {
+            "name": "Terminer",
+            "definition": "to end/finish"
+        },
+        {
+            "name": "Tirer",
+            "definition": "to pull/shoot"
+        },
+        {
+            "name": "Tomber",
+            "definition": "to fall"
+        },
+        {
+            "name": "Tourner",
+            "definition": "to turn"
+        },
+        {
+            "name": "Tousser",
+            "definition": "to cough"
+        },
+        {
+            "name": "Traverser",
+            "definition": "to cross"
+        },
+        {
+            "name": "Tremper",
+            "definition": "to soak/dip"
+        },
+        {
+            "name": "Tromper",
+            "definition": "to deceive"
+        },
+        {
+            "name": "Trouver",
+            "definition": "to find"
+        },
+        {
+            "name": "Tuer",
+            "definition": "to kill"
+        },
+        {
+            "name": "Voler",
+            "definition": "to fly/steal/rob"
+        }
+    ]
+}
