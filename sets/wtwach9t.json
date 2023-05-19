@@ -4,87 +4,87 @@
     "description": "Review set for Mr Diffley's World History class",
     "list": [
         {
-            "term": "Hijaz",
+            "name": "Hijaz",
             "definition": "The western, coastal region of the Arabian Peninsula. It was the site of the holy cities of Mecca and Medina."
         },
         {
-            "term": "Mecca",
+            "name": "Mecca",
             "definition": "The holiest city of Islam; Muhammad's birthplace"
         },
         {
-            "term": "hijra",
+            "name": "hijra",
             "definition": "Muhammad's move to Medina. Start of the Islamic calendar (632 CE)"
         },
         {
-            "term": "umma",
+            "name": "umma",
             "definition": "The community of all Muslims"
         },
         {
-            "term": "The Quran",
+            "name": "The Quran",
             "definition": "The holy book of Islam"
         },
         {
-            "term": "Hadith",
+            "name": "Hadith",
             "definition": "Traditional records of the deeds of Muhammad, and his quotations"
         },
         {
-            "term": "Five Pillars of Islam",
+            "name": "Five Pillars of Islam",
             "definition": "Declaration of faith, prayer, alms, fasting, and pilgrimage"
         },
         {
-            "term": "Rightly guided Caliphs",
+            "name": "Rightly guided Caliphs",
             "definition": "The first four rulers of the Islamic world (632-661) after the death of Muhammad. They were chosen by the umma."
         },
         {
-            "term": "jihad",
+            "name": "jihad",
             "definition": "A holy struggle or striving by a Muslim for a moral or spiritual or political goal"
         },
         {
-            "term": "dar al-Islam",
-            "definition": "An Arabic term that means the \"house of Islam\" and that refers to lands under Islamic rule"
+            "name": "dar al-Islam",
+            "definition": "An Arabic name that means the \"house of Islam\" and that refers to lands under Islamic rule"
         },
         {
-            "term": "dar al-harb",
-            "definition": "An Arabic term that means the \"house of war\" and that refers to lands under non-Islamic rule"
+            "name": "dar al-harb",
+            "definition": "An Arabic name that means the \"house of war\" and that refers to lands under non-Islamic rule"
         },
         {
-            "term": "Umayyad Caliphate",
+            "name": "Umayyad Caliphate",
             "definition": "The first hereditary dynasty of Muslim caliphs (661 to 750 CE). From their capital at Damascus, they ruled an empire that extended from Spain to India. Overthrown by the Abbasid Caliphate."
         },
         {
-            "term": "Treatment of non-Arabs in the Umayyad Caliphate",
-            "definition": "Non-Arabs had to pay a special tax and were not allowed to convert to Islam. They were also not allowed to serve in the military."
+            "name": "Treatment of non-Arabs in the Umayyad Caliphate",
+            "definition": "Religious freedom, but non-Arabs had to pay a special tax but were allowed to convert to Islam. However, still mistreated non-Arabs, even converts. They were also not allowed to serve in the military."
         },
         {
-            "term": "Abbasid Caliphate",
+            "name": "Abbasid Caliphate",
             "definition": "The dynasty that came after the Umayyads. They moved the capital to Baghdad. They were more tolerant of non-Arabs and allowed them to serve in the military."
         },
         {
-            "term": "ulama",
+            "name": "ulama",
             "definition": "Islamic religious scholars"
         },
         {
-            "term": "Sharia Law",
+            "name": "Sharia Law",
             "definition": "Islamic law; a combination of the Quran and the Hadith."
         },
         {
-            "term": "Changing status of women in Islam",
+            "name": "Changing status of women in Islam",
             "definition": "Women had set rights now, but also had set strictures they must follow"
         },
         {
-            "term": "The House of Wisdom",
+            "name": "The House of Wisdom",
             "definition": "A center of learning established in Baghdad in the 800s"
         },
         {
-            "term": "Al-Andalus & religious diversity",
+            "name": "Al-Andalus & religious diversity",
             "definition": "Muslim Spain; religiously diverse"
         },
         {
-            "term": "Great Mosque of Cordoba",
+            "name": "Great Mosque of Cordoba",
             "definition": "A mosque in Spain that was converted to a Christian church when the Christians took over the city"
         },
         {
-            "term": "Barmaki family",
+            "name": "Barmaki family",
             "definition": "A family of Persian descent that served the Abbasid caliphs in Baghdad"
         }
     ]

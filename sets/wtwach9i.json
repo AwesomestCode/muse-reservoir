@@ -4,35 +4,35 @@
     "description": "Review set for Mr Diffley's World History class",
     "list": [
         {
-            "term": "Khadija",
+            "name": "Khadija",
             "definition": "Muhammad's wife, a wealthy widow who ran a prosperous caravan business"
         },
         {
-            "term": "Abu Bakr",
+            "name": "Abu Bakr",
             "definition": "Muhammad's father-in-law and early convert to Islam who became the first caliph"
         },
         {
-            "term": "Ali",
+            "name": "Ali",
             "definition": "Muhammad's cousin and son-in-law who was assassinated after becoming the fourth caliph, trusted by Shi'ites"
         },
         {
-            "term": "Abd al-Rahman",
+            "name": "Abd al-Rahman",
             "definition": "Umayyad prince who escaped the Abbasid massacre of his family and fled to Spain to establish a new Umayyad dynasty"
         },
         {
-            "term": "Abu al-Abbas",
+            "name": "Abu al-Abbas",
             "definition": "Descendant of Muhammad's uncle who led a rebellion against the Umayyads and founded the Abbasid dynasty"
         },
         {
-            "term": "al-Shafi’l",
+            "name": "al-Shafi’l",
             "definition": "Iraqi Ulama, Muslim theologian who established the basis for Islamic law. Said Hadith should be based off of Muhammad's teaching."
         },
         {
-            "term": "al-Khwarizimi",
+            "name": "al-Khwarizimi",
             "definition": "Muslim mathematician who pioneered the study of algebra"
         },
         {
-            "term": "Ibn Sina (Avicenna)",
+            "name": "Ibn Sina (Avicenna)",
             "definition": "Muslim-Persian physician who wrote the Canon on Medicine"
         }
     ]
