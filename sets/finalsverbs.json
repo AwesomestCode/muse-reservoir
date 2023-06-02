@@ -12,64 +12,8 @@
             "definition": "attraper"
         },
         {
-            "name": "to bathe",
-            "definition": "baigner"
-        },
-        {
-            "name": "to lower",
-            "definition": "baisser"
-        },
-        {
             "name": "to hurt",
             "definition": "blesser"
-        },
-        {
-            "name": "to shine",
-            "definition": "briller"
-        },
-        {
-            "name": "to break",
-            "definition": "briser"
-        },
-        {
-            "name": "to hide",
-            "definition": "cacher"
-        },
-        {
-            "name": "to chat",
-            "definition": "causer"
-        },
-        {
-            "name": "to heat",
-            "definition": "chauffer"
-        },
-        {
-            "name": "to count",
-            "definition": "compter"
-        },
-        {
-            "name": "to advise",
-            "definition": "conseiller"
-        },
-        {
-            "name": "to shout",
-            "definition": "crier"
-        },
-        {
-            "name": "to tear",
-            "definition": "déchirer"
-        },
-        {
-            "name": "to live",
-            "definition": "demeurer"
-        },
-        {
-            "name": "to spend",
-            "definition": "dépenser"
-        },
-        {
-            "name": "to last",
-            "definition": "durer"
         },
         {
             "name": "to burst",
@@ -89,11 +33,7 @@
         },
         {
             "name": "to delight",
-            "definition": "enhanter"
-        },
-        {
-            "name": "to surround",
-            "definition": "entourer"
+            "definition": "enchanter"
         },
         {
             "name": "to wrap",
@@ -116,18 +56,6 @@
             "definition": "éviter"
         },
         {
-            "name": "to congratulate",
-            "definition": "féliciter"
-        },
-        {
-            "name": "to strike/knock",
-            "definition": "frapper"
-        },
-        {
-            "name": "to rub",
-            "definition": "frotter"
-        },
-        {
             "name": "to keep",
             "definition": "garder"
         },
@@ -140,24 +68,12 @@
             "definition": "gaspiller"
         },
         {
-            "name": "to slip",
-            "definition": "glisser"
-        },
-        {
-            "name": "to taste",
-            "definition": "goûter"
-        },
-        {
             "name": "to scold",
             "definition": "gronder"
         },
         {
             "name": "to not know/be ignorant of",
             "definition": "ignorer"
-        },
-        {
-            "name": "to swear",
-            "definition": "jurer"
         },
         {
             "name": "to praise/rent/hire",
@@ -184,10 +100,6 @@
             "definition": "peigner"
         },
         {
-            "name": "to cry",
-            "definition": "pleurer"
-        },
-        {
             "name": "to put",
             "definition": "poser"
         },
@@ -196,36 +108,12 @@
             "definition": "pousser"
         },
         {
-            "name": "to present",
-            "definition": "présenter"
-        },
-        {
             "name": "to lend",
             "definition": "prêter"
         },
         {
-            "name": "to pray",
-            "definition": "prier"
-        },
-        {
             "name": "to pick up",
             "definition": "ramasser"
-        },
-        {
-            "name": "to notice",
-            "definition": "remarquer"
-        },
-        {
-            "name": "to thank",
-            "definition": "remercier"
-        },
-        {
-            "name": "to review/iron",
-            "definition": "repasser"
-        },
-        {
-            "name": "to stay",
-            "definition": "rester"
         },
         {
             "name": "to greet",
@@ -234,10 +122,6 @@
         {
             "name": "to jump",
             "definition": "sauter"
-        },
-        {
-            "name": "to seem",
-            "definition": "sembler"
         },
         {
             "name": "to whistle",
@@ -266,10 +150,6 @@
         {
             "name": "to cough",
             "definition": "tousser"
-        },
-        {
-            "name": "to cross",
-            "definition": "traverser"
         },
         {
             "name": "to soak/dip",
