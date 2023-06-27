@@ -1,0 +1,359 @@
+{
+    "author": "raymondxu",
+    "title": "Verbes du Cycle 17",
+    "description": "elements list 1",
+    "list": [
+        {
+            "name": "hydrogen",
+            "definition": "element symbolised by H"
+        },
+        {
+            "name": "1",
+            "definition": "atomic number of hydrogen"
+        },
+        {
+            "name": "1.008",
+            "definition": "atomic mass of hydrogen"
+        },
+        {
+            "name": "±1",
+            "definition": "commonly formed ions of hydrogen"
+        },
+        {
+            "name": "helium",
+            "definition": "element symbolised by He"
+        },
+        {
+            "name": "2",
+            "definition": "atomic number of helium"
+        },
+        {
+            "name": "4.003",
+            "definition": "atomic mass of helium"
+        },
+        {
+            "name": "not applicable",
+            "definition": "commonly formed ions of helium"
+        },
+        {
+            "name": "lithium",
+            "definition": "element symbolised by Li"
+        },
+        {
+            "name": "3",
+            "definition": "atomic number of lithium"
+        },
+        {
+            "name": "6.941",
+            "definition": "atomic mass of lithium"
+        },
+        {
+            "name": "+1",
+            "definition": "commonly formed ions of lithium"
+        },
+        {
+            "name": "beryllium",
+            "definition": "element symbolised by Be"
+        },
+        {
+            "name": "4",
+            "definition": "atomic number of beryllium"
+        },
+        {
+            "name": "9.012",
+            "definition": "atomic mass of beryllium"
+        },
+        {
+            "name": "+2",
+            "definition": "commonly formed ions of beryllium"
+        },
+        {
+            "name": "boron",
+            "definition": "element symbolised by B"
+        },
+        {
+            "name": "5",
+            "definition": "atomic number of boron"
+        },
+        {
+            "name": "10.81",
+            "definition": "atomic mass of boron"
+        },
+        {
+            "name": "+3",
+            "definition": "commonly formed ions of boron"
+        },
+        {
+            "name": "carbon",
+            "definition": "element symbolised by C"
+        },
+        {
+            "name": "6",
+            "definition": "atomic number of carbon"
+        },
+        {
+            "name": "12.01",
+            "definition": "atomic mass of carbon"
+        },
+        {
+            "name": "-4",
+            "definition": "commonly formed ions of carbon"
+        },
+        {
+            "name": "nitrogen",
+            "definition": "element symbolised by N"
+        },
+        {
+            "name": "7",
+            "definition": "atomic number of nitrogen"
+        },
+        {
+            "name": "14.01",
+            "definition": "atomic mass of nitrogen"
+        },
+        {
+            "name": "-3",
+            "definition": "commonly formed ions of nitrogen"
+        },
+        {
+            "name": "oxygen",
+            "definition": "element symbolised by O"
+        },
+        {
+            "name": "8",
+            "definition": "atomic number of oxygen"
+        },
+        {
+            "name": "16.00",
+            "definition": "atomic mass of oxygen"
+        },
+        {
+            "name": "-2",
+            "definition": "commonly formed ions of oxygen"
+        },
+        {
+            "name": "fluorine",
+            "definition": "element symbolised by F"
+        },
+        {
+            "name": "9",
+            "definition": "atomic number of fluorine"
+        },
+        {
+            "name": "19.00",
+            "definition": "atomic mass of fluorine"
+        },
+        {
+            "name": "-1",
+            "definition": "commonly formed ions of fluorine"
+        },
+        {
+            "name": "neon",
+            "definition": "element symbolised by Ne"
+        },
+        {
+            "name": "10",
+            "definition": "atomic number of neon"
+        },
+        {
+            "name": "20.18",
+            "definition": "atomic mass of neon"
+        },
+        {
+            "name": "not applicable",
+            "definition": "commonly formed ions of neon"
+        },
+        {
+            "name": "sodium",
+            "definition": "element symbolised by Na"
+        },
+        {
+            "name": "11",
+            "definition": "atomic number of sodium"
+        },
+        {
+            "name": "22.99",
+            "definition": "atomic mass of sodium"
+        },
+        {
+            "name": "+1",
+            "definition": "commonly formed ions of sodium"
+        },
+        {
+            "name": "magnesium",
+            "definition": "element symbolised by Mg"
+        },
+        {
+            "name": "12",
+            "definition": "atomic number of magnesium"
+        },
+        {
+            "name": "24.31",
+            "definition": "atomic mass of magnesium"
+        },
+        {
+            "name": "+2",
+            "definition": "commonly formed ions of magnesium"
+        },
+        {
+            "name": "aluminum",
+            "definition": "element symbolised by Al"
+        },
+        {
+            "name": "13",
+            "definition": "atomic number of aluminum"
+        },
+        {
+            "name": "26.98",
+            "definition": "atomic mass of aluminum"
+        },
+        {
+            "name": "+3",
+            "definition": "commonly formed ions of aluminum"
+        },
+        {
+            "name": "silicon",
+            "definition": "element symbolised by Si"
+        },
+        {
+            "name": "14",
+            "definition": "atomic number of silicon"
+        },
+        {
+            "name": "28.09",
+            "definition": "atomic mass of silicon"
+        },
+        {
+            "name": "-4",
+            "definition": "commonly formed ions of silicon"
+        },
+        {
+            "name": "phosphorus",
+            "definition": "element symbolised by P"
+        },
+        {
+            "name": "15",
+            "definition": "atomic number of phosphorus"
+        },
+        {
+            "name": "30.97",
+            "definition": "atomic mass of phosphorus"
+        },
+        {
+            "name": "-3",
+            "definition": "commonly formed ions of phosphorus"
+        },
+        {
+            "name": "sulfur",
+            "definition": "element symbolised by S"
+        },
+        {
+            "name": "16",
+            "definition": "atomic number of sulfur"
+        },
+        {
+            "name": "32.07",
+            "definition": "atomic mass of sulfur"
+        },
+        {
+            "name": "-2",
+            "definition": "commonly formed ions of sulfur"
+        },
+        {
+            "name": "chlorine",
+            "definition": "element symbolised by Cl"
+        },
+        {
+            "name": "17",
+            "definition": "atomic number of chlorine"
+        },
+        {
+            "name": "35.45",
+            "definition": "atomic mass of chlorine"
+        },
+        {
+            "name": "-1",
+            "definition": "commonly formed ions of chlorine"
+        },
+        {
+            "name": "argon",
+            "definition": "element symbolised by Ar"
+        },
+        {
+            "name": "18",
+            "definition": "atomic number of argon"
+        },
+        {
+            "name": "39.95",
+            "definition": "atomic mass of argon"
+        },
+        {
+            "name": "not applicable",
+            "definition": "commonly formed ions of argon"
+        },
+        {
+            "name": "potassium",
+            "definition": "element symbolised by K"
+        },
+        {
+            "name": "19",
+            "definition": "atomic number of potassium"
+        },
+        {
+            "name": "39.10",
+            "definition": "atomic mass of potassium"
+        },
+        {
+            "name": "+1",
+            "definition": "commonly formed ions of potassium"
+        },
+        {
+            "name": "calcium",
+            "definition": "element symbolised by Ca"
+        },
+        {
+            "name": "20",
+            "definition": "atomic number of calcium"
+        },
+        {
+            "name": "40.08",
+            "definition": "atomic mass of calcium"
+        },
+        {
+            "name": "+2",
+            "definition": "commonly formed ions of calcium"
+        },
+        {
+            "name": "bromine",
+            "definition": "element symbolised by Br"
+        },
+        {
+            "name": "35",
+            "definition": "atomic number of bromine"
+        },
+        {
+            "name": "79.90",
+            "definition": "atomic mass of bromine"
+        },
+        {
+            "name": "-1",
+            "definition": "commonly formed ions of bromine"
+        },
+        {
+            "name": "iodine",
+            "definition": "element symbolised by I"
+        },
+        {
+            "name": "53",
+            "definition": "atomic number of iodine"
+        },
+        {
+            "name": "126.9",
+            "definition": "atomic mass of iodine"
+        },
+        {
+            "name": "-1",
+            "definition": "commonly formed ions of iodine"
+        }
+    ]
+}
