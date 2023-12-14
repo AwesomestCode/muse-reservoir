@@ -19,7 +19,6 @@
             "name": "gabelle",
             "description": "A tax on salt."
         },
-        // taille
         {
             "name": "taille",
             "description": "An income tax to the state."
