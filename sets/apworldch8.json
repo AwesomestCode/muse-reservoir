@@ -1,0 +1,32 @@
+{
+    "author": "Raymond Xu",
+    "title": "AP World Chapter 8 Test",
+    "description": "Revision set for AP World Chapter 8 Test",
+    "list": [
+        {
+            "name": "banalities",
+            "description": "A tax on village industries."
+        },
+        {
+            "name": "hoberaux",
+            "description": "The poorer nobles"
+        },
+        {
+            "name": "corvee",
+            "description": "Mandatory labour for one day a week with no pay and with own tools for the state."
+        },
+        {
+            "name": "gabelle",
+            "description": "A tax on salt."
+        },
+        // taille
+        {
+            "name": "taille",
+            "description": "An income tax to the state."
+        },
+        {
+            "name": "Varennes",
+            "description": "The place where Louis XVI was caught trying to escape."
+        }
+    ]
+}
